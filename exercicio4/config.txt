@@ -1,0 +1,4 @@
+usuario=admin
+senha=1234
+ip=123.456.78.9
+so=windowsx64
